@@ -21,6 +21,6 @@
   "license": "MIT",
   "dependencies": {
     "fuse.js": "^7.0.0"
-  }
+  },
   "homepage": "https://github.com/TOXIC-DEVIL/country-lookup"
 }
