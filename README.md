@@ -3,7 +3,7 @@ Lookup country information with fast and fuzzy search functionalities.
 
 ### Installation
 ```bash
-npm install country-lookup@latest
+npm install @toxicdevil/countrylookup@latest
 ```
 
 ### Usage 
@@ -17,7 +17,7 @@ const {
   getCountryInfoByCurrency,
   getCountryInfoByLanguage,
   getCountryInfoByRegion
- } = require('country-lookup');
+ } = require('@toxicdevil/countrylookup');
 
 let info = country('India');
 console.log(info);
