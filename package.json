@@ -2,7 +2,7 @@
   "name": "country-lookup",
   "version": "1.0.0",
   "description": "Lookup country information with fast and fuzzy search functionalities.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
