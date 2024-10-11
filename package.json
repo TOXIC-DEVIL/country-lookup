@@ -1,5 +1,5 @@
 {
-  "name": "country-lookup",
+  "name": "@toxicdevil/countrylookup",
   "version": "1.0.0",
   "description": "Lookup country information with fast and fuzzy search functionalities.",
   "main": "index.js",
